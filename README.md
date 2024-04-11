@@ -53,29 +53,20 @@ the pay button consider the transaction done and mark the seat sold.
 ## Interface
 
 #### Home Pages
-<p align="middle">
-   <img src="../master/Images/main.png" width="400"/>
-   <img src="../master/Images/main2.png" width="400"/>
-</p>
+![](main.png)
+![](main2.png)
 
 #### Login Page and Book Flight
-<p align="middle">
-   <img src="../master/Images/login.png" width="400"/>
-   <img src="../master/Images/book.png" width="400"/>
-</p>
+![](login.png)
+![](book.png)
 
 #### Current Bookings and Itinerary
-<p align="middle">
-   <img src="../master/Images/current.png" width="400"/>
-   <img src="../master/Images/itenary.png" width="400"/>
-</p>
+![](current.png)
+![](itenary.png)
 
 #### Seat Features and Approval
-<p align="middle">
-   <img src="../master/Images/features.png" width="400"/>
-   <img src="../master/Images/approve.png" width="400"/>
-</p>
-
+![](features.png)
+![](approve.png)
 
 ## How to Run
 
@@ -95,10 +86,8 @@ the pay button consider the transaction done and mark the seat sold.
 <user username="shariq@customer.com" password="c" roles="Customer"/>
 ```
 
-<p align="middle">
-   <img src="../master/Images/tomcat.png" width="400"/>
-   <img src="../master/Images/tomcat-users-xml.png" width="400"/>
-</p>
+![](tomcat.png)
+![](tomcat-users-xml.png)
 
 Morever, open and read the file. Only the users authenticated in this file are allowed to login and use the Booking System. Use above mentioned credentials to login through the Login Page.
 
